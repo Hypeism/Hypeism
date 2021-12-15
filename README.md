@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hypeism
 - 👀 I’m interested in flight simulation, Japan, and cooking!
-- 🌱 I’m currently learning React and JS
-- 💞️ I’m looking to collaborate on FlyByWire Simulations A32NX and A380X projects
+- 🌱 I’m currently learning HTML, CSS, and JS
+- 💞️ I’m looking to collaborate on FlyByWire Simulations A32NX and Heavy Division's 787XH Projects
 - 📫 How to reach me Discord
 
 <!---
